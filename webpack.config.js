@@ -6,8 +6,8 @@ module.exports = {
 	entry: './src/index.js',
 	output: {
 		path: path.resolve(__dirname, 'dist'),
-		filename: 'react-practico-react-challenge/bundle.js',
-		publicPath: 'react-practico-react-challenge/',
+		filename: "curso-practico-react02/bundle.js",
+		publicPath: "/curso-practico-react02/",
 		clean:true,
 	},
 	mode: 'development',
